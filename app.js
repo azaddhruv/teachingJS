@@ -1,1 +1,2 @@
-alert('i want sex')
+alert('i am a web developer')
+alert('i love teaching')
