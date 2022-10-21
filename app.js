@@ -228,3 +228,39 @@ JS have dynamic typing - data types are automatically assingned to variables
 
 
 
+//==================================================================================
+//DDDDDD  OOOOOO  M     M
+//DD   D  O    O  M M M M
+//DD   D  O    O  M  M  M
+//DDDDDD  OOOOOO  M     M
+//DOCUMENT OBJECT MODEL
+
+//Document is our entry point in the world of DOM.
+
+
+//NOTE: Everthing is stored in document so to manipulate elements we select document and manipulate elements.
+
+//1: Select
+//2: Manipulate
+
+
+////1: select
+// getElementById
+// getElementByTagName
+// getElementByClassName
+
+// var h1Selector = document.getElementById('main');
+// console.dir(h1Selector);
+
+// var allImages = document.getElementsByTagName('img');
+
+// var h1 = document.getElementById('main');
+// var name = prompt("enter name");
+
+//  h1.innerText = name;
+// h1.addEventListener('click', function(){
+//  var col = prompt("enter col")
+//  h1.style.color = col;
+//  h1.style.marginTop = "100px";
+// })
+
